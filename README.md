@@ -170,9 +170,9 @@ and Algorithms</strong>.
 
 #### Frontend Projects :
 
-* [PortfolioSanjeevSingh](https://github.com/sanjeev662/PortfolioSanjeevSingh)
-* [Weather-app (API used)](https://github.com/sanjeev662/weather-app)
-* [News-app (API used)](https://github.com/sanjeev662/newsapp)
+* [PortfolioNaveenPandey](#)
+* [Weather-app (API used)](#)
+* [News-app (API used)](#)
 
 #### UI Projects :
 
