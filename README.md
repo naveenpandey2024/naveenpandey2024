@@ -150,10 +150,10 @@ and Algorithms</strong>.
 
 <h3 align="center">Some coding profile</h3>
 <p align="center">
-<a href="https://www.codechef.com/users/sanjeev662" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanjeev662" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sanjeev662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanjeev662" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sanjeev662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sanjeev662" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sanjeev662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sanjeev662" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/pandeynaveen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pandeynaveen" height="30" width="40" /></a>
+<a href="https://leetcode.com/naveen_2024/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="naveen_2024" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/naveenpandey_2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="naveenpandey_2024" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/pandeynaveenx4i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pandeynaveenx4i" height="30" width="40" /></a>
 </p>
 
 ---
