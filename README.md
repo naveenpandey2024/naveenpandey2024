@@ -2,7 +2,7 @@
 
 <a href="https://mahiiverse-portfolio.000webhostapp.com/" target="_blank"></a>
 
-<h1 align="center">Hi 👋, I'm Sanjeev Singh</h1>
+<h1 align="center">Hi 👋, I'm Naveen KumarPandey</h1>
 
 <h3 align="center">A passionate full stack developer</h3>
 
