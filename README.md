@@ -123,7 +123,7 @@ and Algorithms</strong>.
     <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
       alt="heroku"/> 
   </a>
-    <a href="https://github.com/sanjeev662" target="_blank">
+    <a href="https://github.com/naveenpandey2024" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a> 
 </p>
@@ -134,13 +134,13 @@ and Algorithms</strong>.
 
 <div style="margin-top:10px" align="center">
   <div>
-       <a href="https://github.com/sanjeev662" target="_blank">
+       <a href="https://github.com/naveenpandey2024" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-    <a  href="https://www.linkedin.com/in/sanjeev662" target="_blank">
+    <a  href="https://www.linkedin.com/in/naveen-kumar-pandey-261784249/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
-    <a  href="mailto:sanjeevsinghkaushik662@gmail.com" target="_blank">
+    <a  href="mailto:pandeynaveencsjmu2020@gmail." target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
     </a>
   </div>
