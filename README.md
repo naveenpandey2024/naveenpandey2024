@@ -161,12 +161,12 @@ and Algorithms</strong>.
 ### ⚙️ My Projects 
 
 #### Full-Stack Projects :
-* [To-Let (RoomOnRent)](https://github.com/sanjeev662/ToLet-RoomOnRent)
-* [AmazonClone-app](https://github.com/sanjeev662/Amazon-Clone-App)
-* [Chat-app](https://github.com/sanjeev662/Clone-Chat-App)
-* [Banking-system](https://github.com/sanjeev662/BankingSystem)
-* [Blog-app](https://github.com/sanjeev662/blog_app)
-* [ToDo-list](https://github.com/sanjeev662/ToDoList)
+* [To-Let (RoomOnRent)](#)
+* [AmazonClone-app](#)
+* [Chat-app](#)
+* [Banking-system](#)
+* [Blog-app](#)
+* [ToDo-list](#)
 
 #### Frontend Projects :
 
@@ -176,9 +176,9 @@ and Algorithms</strong>.
 
 #### UI Projects :
 
-* [Thanku card](https://github.com/sanjeev662/thankugreetingcard)
-* [Shopping-app](https://github.com/sanjeev662/onlineshop.github.io)
-* [Indian culture](https://github.com/sanjeev662/IndianCulture)
+* [Thanku card](#)
+* [Shopping-app](#)
+* [Indian culture](#)
 
 <!-- <hr> -->
 
