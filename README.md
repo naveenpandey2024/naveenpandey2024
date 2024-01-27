@@ -180,12 +180,3 @@ and Algorithms</strong>.
 * [Shopping-app](#)
 * [Indian culture](#)
 
-<!-- <hr> -->
-
-<!-- <h3 align="left">Most used Languages:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeev662&show_icons=true&locale=en&layout=compact" alt="sanjeev662" /></p> -->
-
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeev662&" alt="sanjeev662" /></p> -->
-    
-    
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjeev662" alt="sanjeev662" /></a> </p> -->
