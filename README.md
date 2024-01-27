@@ -13,7 +13,7 @@
 ---
 ### 👦 About Me
 - 🔭 I’m currently working on my personal project **Food Delivery App**
-- 📄 Know about my experiences **:** <a href="https://drive.google.com/drive/home" target="_blank">Resume</a>
+- 📄 Know about my experiences **:** <a href="https://drive.google.com/file/d/1v9ilXunzjXmxvbujCFFMdwypghSbwBqL/view?usp=sharing" target="_blank">Resume</a>
 - 👨‍💻 All of my projects are available at my portfolio site : [Portfolio](https://portfolio-sanjeev-singh.vercel.app/)
 - 📫 How to reach me **pandeynaveencsjmu2020@gmail.com**
 - 🎯 I'm continuously learning and highly enthusiastic about Open Source!
