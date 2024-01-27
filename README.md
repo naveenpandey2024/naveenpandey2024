@@ -2,20 +2,20 @@
 
 <a href="https://mahiiverse-portfolio.000webhostapp.com/" target="_blank"></a>
 
-<h1 align="center">Hi 👋, I'm Naveen KumarPandey</h1>
+<h1 align="center">Hi 👋, I'm Naveen Kumar Pandey</h1>
 
 <h3 align="center">A passionate full stack developer</h3>
 
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Sanjeev%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg) -->
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Naveen%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg) -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeev662&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeev662" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenpandey2024&label=Profile%20views&color=0e75b6&style=flat" alt="naveenpandey2024" /> </p>
 
 ---
 ### 👦 About Me
 - 🔭 I’m currently working on my personal project **To-Let (RoomOnRent)**
 - 📄 Know about my experiences **:** <a href="https://drive.google.com/file/d/1owTJHwvsvIn8PpVRFsKLpSqQIarMIKe9/view" target="_blank">Resume</a>
 - 👨‍💻 All of my projects are available at my portfolio site : [Portfolio](https://portfolio-sanjeev-singh.vercel.app/)
-- 📫 How to reach me **sanjeevsinghkaushik662@gmail.com**
+- 📫 How to reach me **pandeynaveencsjmu2020@gmail.com**
 - 🎯 I'm continuously learning and highly enthusiastic about Open Source!
 - 💫 I'm a highly skilled Full Stack Developer with expertise in <strong>React.js and Node.js</strong>, combined with strong knowledge of <strong>Data Structures
 and Algorithms</strong>.
