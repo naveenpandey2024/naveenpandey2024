@@ -13,8 +13,8 @@
 ---
 ### 👦 About Me
 - 🔭 I’m currently working on my personal project **Food Delivery App**
-- 📄 Know about my experiences **:** <a href="https://drive.google.com/file/d/1v9ilXunzjXmxvbujCFFMdwypghSbwBqL/view?usp=sharing" target="_blank">Resume</a>
-- 👨‍💻 All of my projects are available at my portfolio site : [Portfolio](https://portfolio-sanjeev-singh.vercel.app/)
+- 📄 Know about my experiences **:** <a href="https://drive.google.com/file/d/1xeS58lKdILkmKiSfR4G_61VByO2L3JJP/view?usp=sharing" target="_blank">Resume</a>
+- 👨‍💻 All of my projects are available at my portfolio site : [Portfolio](#)
 - 📫 How to reach me **pandeynaveencsjmu2020@gmail.com**
 - 🎯 I'm continuously learning and highly enthusiastic about Open Source!
 - 💫 I'm a highly skilled Full Stack Developer with expertise in <strong>React.js and Node.js</strong>, combined with strong knowledge of <strong>Data Structures
@@ -161,8 +161,8 @@ and Algorithms</strong>.
 ### ⚙️ My Projects 
 
 #### Full-Stack Projects :
-* [To-Let (RoomOnRent)](#)
-* [AmazonClone-app](#)
+* [Hospital Management Web Software](https://hospital-management-system-naveen.netlify.app/)
+* [AmazonClone-app](https://naveen-amazon-clone-project.netlify.app/)
 * [Chat-app](#)
 * [Banking-system](#)
 * [Blog-app](#)
